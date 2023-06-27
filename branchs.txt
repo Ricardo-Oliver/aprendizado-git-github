@@ -1,0 +1,6 @@
+As branchs do Git, são ramos em que você cria a partir da branhc principal do projeto que é a "master", as branchs servem para criar novas 
+features e posteriormente ser agrupada(mergada) em master sob aprovação do dono do projeto.
+
+- Branchs(ramos) servem para desenvolvermos features isoladas
+- A branch master é a principal
+- É possível misturar as branchs usando o comando merge
