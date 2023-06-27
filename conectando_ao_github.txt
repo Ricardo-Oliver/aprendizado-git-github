@@ -1,0 +1,2 @@
+Quando criado um projeto, para subir o mesmo como um repositório para o Github, é necessário uma conta na plataforma, assim podemos 
+sincronizar a conta do Github na nossa máquina e realizar ações como a de subir um repositório ou clona do Github para nossa máquina. 
