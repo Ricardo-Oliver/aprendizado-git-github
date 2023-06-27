@@ -1,0 +1,6 @@
+Para utilizar o Git, é necessário baixar o software na internet,
+de acordo com o seu S.O(Sistema Operacional), já o Github é 
+uma plataforma de hospedagem de código fonte, onde você cria uma conta, e acessa para 
+criar os repositórios públicos ou privados dos seus projetos e assim manipular o mesmo, de acordo 
+com sua preferência. 
+Você também pode clonar outros projetos Open Source(Código Aberto).
