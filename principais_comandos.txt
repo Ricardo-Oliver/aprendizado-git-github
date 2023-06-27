@@ -1,0 +1,12 @@
+A manipulação do Git, é através de comandos, alguns dos principais são:
+- git init: Para inicializar o git dentro do projeto 
+- git add "arquivo específico ou add . para todos os arquivos": Para deixar o(s) arquivo(s) monitoráveis pelo Git.
+- git commit -m "Mensagem especificando a alteração": Para enviar o(s) arquivo(s) para área de staged
+- git log: Comando para mostrar as informações dos commits
+- git diff: Mostra as alterações nos arquivos
+- git reset HEAD: Tira os arquivos da área de seleção (ou staged), mas a modificação no arquivo permanece
+- git checkout “nome da branch”: Para ir para uma branch desejada
+- git branch -D “nome da branch”: Para deletar uma branch
+- git checkout -b “nome da branch”: Para criar e já ir para nova branch criada
+- git merge “nome da branch”: Comando que irá mergear a branch especificada no comando, com a branch em que estiver no momento
+- git clone “link ou chave ssh projeto a ser clonado”: Esse comando clona um repositório do Github, após o comando git clone inserir ou o link https, ou a chave ssh.
